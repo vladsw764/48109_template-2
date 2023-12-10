@@ -8,5 +8,6 @@
     <orderEntry type="library" name="html5shiv" level="application" />
     <orderEntry type="library" name="livingston-css3-mediaqueries-js" level="application" />
     <orderEntry type="library" name="flag-icon-css" level="application" />
+    <orderEntry type="library" name="lead-1.1.0" level="application" />
   </component>
 </module>
