@@ -1519,10 +1519,12 @@ section {
 
     .head-block-v1 li {
         font-size: 14px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: normal;
     }
 
     .head-block-v1 {
-        background: url(../img/Phone1.png) 50% 0 no-repeat;
+        background: url(../img/Phone.png) 50% 0 no-repeat;
     }
 
     .head-block-v1 .main-title {
