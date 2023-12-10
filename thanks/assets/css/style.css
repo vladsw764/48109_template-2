@@ -153,19 +153,19 @@ img {
   color: #fff;
 }
 .other-suggestion__item_bg_yellow {
-  background: url("../images/icons/dot_bottom.svg") repeat-x top left 3.5px, url("../images/icons/dot_top.svg") repeat-x bottom left 3.5px;
+  background: url("../../../assets/img/dot_bottom.svg") repeat-x top left 3.5px, url("../../../assets/img/dot_top.svg") repeat-x bottom left 3.5px;
   background-color: #ffe234;
 }
 .item_bg_1 {
-  background: url("../images/icons/dot_bottom.svg") repeat-x top left 3.5px, url("../images/icons/dot_top.svg") repeat-x bottom left 3.5px;
+  background: url("../../../assets/img/dot_bottom.svg") repeat-x top left 3.5px, url("../../../assets/img/dot_top.svg") repeat-x bottom left 3.5px;
   background-color: #ff4131;
 }
 .item_bg_2 {
-  background: url("../images/icons/dot_bottom.svg") repeat-x top left 3.5px, url("../images/icons/dot_top.svg") repeat-x bottom left 3.5px;
+  background: url("../../../assets/img/dot_bottom.svg") repeat-x top left 3.5px, url("../../../assets/img/dot_top.svg") repeat-x bottom left 3.5px;
   background-color: #a431ff;
 }
 .item_bg_3 {
-  background: url("../images/icons/dot_bottom.svg") repeat-x top left 3.5px, url("../images/icons/dot_top.svg") repeat-x bottom left 3.5px;
+  background: url("../../../assets/img/dot_bottom.svg") repeat-x top left 3.5px, url("../../../assets/img/dot_top.svg") repeat-x bottom left 3.5px;
   background-color: #00c3cf;
 }
 .emoji__wrap {
