@@ -493,7 +493,7 @@ section {
 
 
 .head-block-v1 {
-    background: url(../img/b1.jpg) 50% 0 no-repeat;
+    background: url(../img/Desktop.png) 50% 0 no-repeat;
 }
 
 .head-block-v1 .wrap {
@@ -533,6 +533,7 @@ section {
     border-radius: 50%;
     box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.7);
     font-size: 10px;
+    opacity: 0%;
 }
 
 .head-block-v1 .sale > strong {
@@ -548,6 +549,14 @@ section {
     border-radius: 8px;
     background: #fff;
     box-shadow: 0 0 15px rgba(0, 0, 0, .09);
+    position: relative;
+}
+
+.img-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(40%, -40%) rotate(20deg);
 }
 
 .head-block-v1 .cost-cont {
@@ -570,7 +579,7 @@ section {
     line-height: 1em;
     font-weight: 700;
     color: #fff;
-    background: #ffbc3d;
+    background: #e73434;
     border-radius: 4px;
 }
 
@@ -601,6 +610,7 @@ section {
     font-weight: 700;
     color: #fff;
     background: #00aeef;
+    /*background: #a24acc;*/
     border-radius: 4px;
 }
 
@@ -848,15 +858,10 @@ section {
     font-size: 17px;
     font-weight: 700;
     text-align: center;
-    color: #272727;
+    color: white;
     text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.3);
     border-bottom: 2px solid #d7a200;
-    background: #ffc700;
-    background-image: -webkit-linear-gradient(top, #ffd800, #ffb400);
-    background-image: -moz-linear-gradient(top, #ffd800, #ffb400);
-    background-image: -ms-linear-gradient(top, #ffd800, #ffb400);
-    background-image: -o-linear-gradient(top, #ffd800, #ffb400);
-    background-image: linear-gradient(to bottom, #ffd800, #ffb400);
+    background: #e73434;
     border-radius: 8px;
 }
 
@@ -1406,7 +1411,7 @@ section {
     }
 
     .head-block-v1 {
-        background: url(../img/b1m.jpg) 50% 0 no-repeat;
+        background: url(../img/Tablet.png) 50% 0 no-repeat;
     }
 
     .head-block-v1 .main-title {
@@ -1512,8 +1517,12 @@ section {
         width: 320px;
     }
 
+    .head-block-v1 li {
+        font-size: 14px;
+    }
+
     .head-block-v1 {
-        background: url(../img/b1s.jpg) 50% 0 no-repeat;
+        background: url(../img/Phone1.png) 50% 0 no-repeat;
     }
 
     .head-block-v1 .main-title {
